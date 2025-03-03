@@ -1,1 +1,41 @@
-/home/sina/.config/Code/User/settings.json
+{
+    "workbench.colorTheme": "Nord",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "'Droid Sans Mono', 'monospace', 'Font Awesome 6 Free', monospace",
+    "terminal.integrated.defaultProfile.linux": "zsh (2)",
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "http.proxy": "socks5://127.0.0.1:12334",
+    "http.noProxy": [
+        "127.0.0.1:12334"
+    ],
+    "codeium.enableConfig": {
+        "*": true
+    },
+    "editor.largeFileOptimizations": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "pieces.OS.launchOnStartup": "Yes",
+    "pieces.cloudCapabilities": "Blended",
+    "pieces.telemetry": true,
+    "makefile.configureOnOpen": true,
+    "geminicodeassist.project": "",
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "cmake.showOptionsMovedNotification": false
+}
