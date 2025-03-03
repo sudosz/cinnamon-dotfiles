@@ -1,0 +1,18 @@
+[submodule ".oh-my-zsh/custom/plugins/zsh-256color"]
+	path = .oh-my-zsh/custom/plugins/zsh-256color
+	url = https://github.com/chrissicool/zsh-256color
+[submodule ".oh-my-zsh/custom/plugins/zsh-autosuggestions"]
+	path = .oh-my-zsh/custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule ".oh-my-zsh/custom/plugins/zsh-bat"]
+	path = .oh-my-zsh/custom/plugins/zsh-bat
+	url = https://github.com/freddieventura/zsh-bat
+[submodule ".oh-my-zsh/custom/plugins/zsh-syntax-highlighting"]
+	path = .oh-my-zsh/custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
+[submodule ".oh-my-zsh/custom/themes/powerlevel10k"]
+	path = .oh-my-zsh/custom/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k
+[submodule ".vim/pack/plugins/start/vim-go"]
+	path = .vim/pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go
