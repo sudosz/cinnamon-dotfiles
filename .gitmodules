@@ -19,3 +19,6 @@
 [submodule ".themes/Nordic"]
 	path = .themes/Nordic
 	url = https://github.com/EliverLara/Nordic
+[submodule "config/nvim"]
+	path = config/nvim
+	url = https://github.com/NvChad/starter
